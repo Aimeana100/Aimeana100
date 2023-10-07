@@ -8,7 +8,7 @@ I'm a passionate Full-stack software developer based in Rwanda. I love tackling 
 Here are some technologies and tools I work with:
 
 - 💻 Programming Languages: `JavaScript, TypeScript, Python, Java, C++`
-- 🧰 Frameworks & Libraries: `React.js, Node.js, Express.js, Django, Spring-boot`
+- 🧰 Frameworks & Libraries: `React.js, Node.js, Express.js, Django`
 - 📱 Mobile App Development: `React Native`
 - 🛠️ DevOps & Cloud:
   - Version Control: `Git, GitHub, GitLab`
@@ -20,7 +20,7 @@ Here are some technologies and tools I work with:
 
 Here are some of the technologies I'm currently learning:
 
-- Container Orchestration: `Kubernetes`
+<!-- - Container Orchestration: `Kubernetes` -->
 - Frameworks & Libraries: `Angular, Spring-Boot, `
 
 <!--
