@@ -20,15 +20,16 @@ Here are some technologies and tools I work with:
 
 Here are some of the technologies I'm currently learning:
 
-<!-- - Container Orchestration: `Kubernetes` -->
-- Frameworks & Libraries: `Angular, Spring-Boot, `
+-  Container Orchestration: `Docker` & `Kubernetes`
+- Frameworks & Libraries: `NestJs, SpringBoot`
 
-<!--
+
 ## 🚀 Projects
 
 I'm passionate about creating meaningful projects. Here are some highlights:
 
-- [Project 1]: [Brief description and link]
+- [Docker Mult container application ](https://github.com/Aimeana100/multi-container-app)
+<!--
 - [Project 2]: [Brief description and link]
 - [Project 3]: [Brief description and link]
 
