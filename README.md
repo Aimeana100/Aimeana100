@@ -7,7 +7,7 @@ I'm a passionate Full-stack software developer based in Rwanda. I love tackling 
 
 Here are some technologies and tools I work with:
 
-- 💻 Programming Languages: `JavaScript, TypeScript, PHP, Python, Java, C++`
+- 💻 Programming Languages: `JavaScript, TypeScript, PHP, Python`
 - 🧰 Frameworks & Libraries: `NodeJs|TS, nestJs, Express.js, Laravel, Django`
 - 🛠️ DevOps & Cloud:
   - Version Control: `Git, GitHub`
