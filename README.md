@@ -7,12 +7,12 @@ I'm a passionate Full-stack software developer based in Rwanda. I love tackling 
 
 Here are some technologies and tools I work with:
 
-- 💻 Programming Languages: `JavaScript, TypeScript, PHP, Python`
-- 🧰 Frameworks & Libraries: `NodeJs|TS, nestJs, Express.js, Laravel, Django`
+- 💻 Programming Languages: `JavaScript {TS/JS}, Java, Python, PHP`
+- 🧰 Frameworks & Libraries: `nestJs, ExpressJS, Spring-boot, Laravel, Django.`
 - 🛠️ DevOps & Cloud:
   - Version Control: `Git, GitHub`
-  - Containers: `Docker`
-  - Automation tools: `Jenkins`
+  - Applications orchestration: `Docker, Kubernetes, `
+  - Automation tools: `Jenkins, Linux scripting.`
   
 - 🗄️ Databases: `MySQL, PostgreSQL, SQLite, MongoDB, `
 
@@ -20,8 +20,7 @@ Here are some technologies and tools I work with:
 
 Here are some of the technologies I'm currently learning:
 
--  Container Orchestration:  `Kubernetes`
-- Frameworks & Libraries: `SpringBoot`
+-  Domain:  `Advanced System design and software development operation (DevOps) practical.`
 
 
 ## 🚀 Projects
